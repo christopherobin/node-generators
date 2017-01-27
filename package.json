@@ -1,0 +1,26 @@
+{
+  "name": "generators",
+  "version": "0.0.1",
+  "description": "Some useful generator functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test"
+  },
+  "keywords": [
+    "generator",
+    "helper",
+    "utility"
+  ],
+  "author": "Christophe Robin <crobin@nekoo.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopherobin/generators.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christopherobin/generators/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
